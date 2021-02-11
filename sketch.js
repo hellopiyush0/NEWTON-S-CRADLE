@@ -60,7 +60,7 @@ function draw(){
 	rope5.display();
 	ball5.display();
 
-	if(keyDown("UP_ARROW")){
+	if(keyDown("LEFT_ARROW")){
 
 	  Matter.Body.applyForce(ball4.body, ball4.body.position, {x : -860,y : -855})
 	  
