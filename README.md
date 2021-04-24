@@ -1,2 +1,15 @@
-# MatterJSBoilerPlate
-MatterJSBoilerPlate
+# MEGA PIXEL
+
+## LINK TO PLAY THIS GAME
+
+```
+https://hellopiyush0.github.io/NEWTON-S-CRADLE/
+```
+
+## HOW TO PLAY THIS GAME
+
+```
+PRESS LEFT ARROW KEY ONLY ONE TIMES
+```
+
+**I HOPE YOU ENJOY THIS GAME** 
